@@ -26,8 +26,9 @@ toc_icon: "bookmark"
 
 ## Services
 * Ad Hoc Reviewers
-	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Hawaii International Conference on System Sciences (HICSS)
-
+	* International Conference on Information Systems (ICIS)
+	* Americas Conference on Information Systems (AMCIS)
+	* Hawaii International Conference on System Sciences (HICSS)
 
 ## Technical Skills
 * Programming Language
