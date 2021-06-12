@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Doehun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate"
+  bio              : 
   location         : "Daejeon, Korea"
   email            : "doehun.kim@kaist.ac.kr"
   uri              :
