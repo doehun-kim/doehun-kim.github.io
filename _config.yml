@@ -111,7 +111,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "i.dhkimy"
+  facebook         : "dhkimy"
   foursquare       :
   github           : "doehun-kim"
   gitlab           :
@@ -270,10 +270,3 @@ defaults:
       share: false
       related: false
 
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
