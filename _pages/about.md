@@ -17,13 +17,16 @@ last_modified_at: 2021-4-15
 
 
 ## Honors and Awards
-* Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
+* Ph.D. Fellowship, College of Business, KAIST, 2019 – Present
+* Employee of the Year Award & Technology Training Program (USA), DTaQ, 2018
+* Director of Joint Staff Awards at R.O.K Joint Chiefs of Staff, DTaQ, 2017
+* Beijing Government Foreign Student Scholarship, Tsinghua University, 2009
+* Beijing Tsinghua University Foreign Student Scholarship, Tsinghua University, 2009
 
 
 ## Services
 * Ad Hoc Reviewers
-	* Management Science, Information Systems Research, Information Systems Frontiers, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
-	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Pacific Asia Conference on Information Systems (PACIS), European Conference on Information Systems (ECIS), INFORMS Conference on Information Systems and Technology (CIST), Hawaii International Conference on System Sciences (HICSS), International Conference on Electronic Commerce (ICEC)
+	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Hawaii International Conference on System Sciences (HICSS)
 
 
 ## Technical Skills
