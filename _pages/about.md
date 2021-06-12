@@ -1,4 +1,5 @@
 ---
+permalink: /about/
 title: "About Me"
 last_modified_at: 2020-12-01
 toc: true
