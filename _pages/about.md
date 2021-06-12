@@ -1,10 +1,10 @@
 ---
-layout: single
 permalink: /about/
 title: "About Me"
+last_modified_at: 2020-12-01
 toc: true
-author_profile: true
-last_modified_at: 2021-4-15
+toc_label: " Table of Contents"
+toc_icon: "bookmark"
 ---
 
 ## Education
