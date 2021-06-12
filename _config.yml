@@ -103,10 +103,10 @@ author:
   name             : "Doehun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D Candidate"
-  location         : "Daejeon, South Korea"
+  location         : "Daejeon, Korea"
   email            : "doehun.kim@kaist.ac.kr"
   uri              :
-  home             : "/about/"
+  home             : "/about/" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
