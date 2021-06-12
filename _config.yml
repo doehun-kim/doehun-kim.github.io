@@ -29,7 +29,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "github-blog-16" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -92,10 +92,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-125435241-1
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-122356851-1"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
@@ -106,7 +106,7 @@ author:
   location         : "Daejeon, South Korea"
   email            : "doehun.kim@kaist.ac.kr"
   uri              :
-  home             : /about
+  home             : "/about/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -265,15 +265,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: false
+      read_time: false
+      comments: true # true
       share: false
       related: false
-  
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
