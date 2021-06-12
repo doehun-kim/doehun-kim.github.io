@@ -1,1 +1,82 @@
+---
+permalink: /about/
+title: "About Me"
+last_modified_at: 2020-12-01
+toc: true
+toc_label: " Table of Contents"
+toc_icon: "bookmark"
+---
 
+## Education
+* **Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea** (September 2019 - Present)
+	* Ph.D. Candidate in *Business and Technology Management* (Major: Information Systems)
+	* M.Eng., in *Graduate School of Innovation and Technology Management* (Martch 2013 - February 2015)
+
+* **Tsinghua University, Beijing, The People's Republic of China** (September 2008 - July 2012)
+	* B.S. in *Department of Precision Instruments and Mechanology*
+
+
+## Honors and Awards
+* Dean's Research Scholar Award, Bryan School of Business and Economics, UNCG, 2021
+* Recognition of Faculty Excellence in Research and Creative Activity, UNCG, 2021 (University Level)
+* Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2020
+* Best Student Paper Runner-Up, INFORMS Conference on Information Systems and Technology (CIST), 2017
+* Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2017
+* Honorable Mention Research Award, KAIST Graduate School of Green Growth, 2017
+* Best Paper Runner-up, Post-ICIS KrAIS Research Workshop, 2016
+* Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2016
+* Best Paper Award, International Conference on Electronic Commerce (ICEC), 2016
+* Best Paper Award, Korea Society of Management Information Systems (KMIS) Fall Conference, 2016
+* Ph.D. Excellent Research Award, College of Business, KAIST, 2016
+* Best Student Paper Award, Post-ICIS KrAIS Research Workshop, 2015
+* Honorable Mention Work-in-Progress Award, Graduate School of Green Growth, KAIST, 2014
+* Ph.D. Fellowship, College of Business, KAIST, 2014 – 2018
+
+
+## Invited Talks
+* Korean American Scientists and Engineers Association (KSEA) - NC Chapter (virtual), 2021
+* Lyft's Safety Advisory Council, CA, USA (virtual), 2020
+* Sungkyunkwan University, Korea, 2020
+* University of North Carolina at Greensboro, NC, USA, 2019
+* Chapman University, CA, USA, 2018
+* Nanyang Technological University, Singapore, 2018
+
+
+## Services
+* Ad Hoc Reviewers
+	* Management Science, Information Systems Research, Information Systems Frontiers, Electronic Commerce Research and Applications, Asia Pacific Journal of Information Systems, Information Systems Review
+	* International Conference on Information Systems (ICIS), Americas Conference on Information Systems (AMCIS), Pacific Asia Conference on Information Systems (PACIS), European Conference on Information Systems (ECIS), INFORMS Conference on Information Systems and Technology (CIST), Hawaii International Conference on System Sciences (HICSS), International Conference on Electronic Commerce (ICEC)
+
+* Conference Services
+	* Associate Editor, International Conference on Information Systems (ICIS) 2020, 2021
+	* Associate Editor, Pacific Asia Conference on Information Systems (PACIS) 2020, 2021
+	* Minitrack Co-Chair, Americas Conference on Information Systems (AMCIS) 2020
+	* Program Committee, KrAIS Research Workshop 2019, 2020 (Post-ICIS workshop)
+	* Web Coordinator, Workshop on Information Systems and Economics (WISE) [2017][4]
+	* Organizing Committee & Web Coordinator, Bright Internet Global Summit (BIGS) [2020][8], [2019][7], [2018][6], [2017][5]
+
+* Doctoral Student Supervision
+	* Yuzhang Han, Bryan School of Business and Economics, UNCG (Dissertation Committee)
+	* Nabid Alam, Bryan School of Business and Economics, UNCG (Dissertation Committee)
+
+* Membership
+	* Association for Information Systems (AIS)
+	* Institute for Operations Research and the Management Science (INFORMS)
+	* Korea Society of Management Information Systems (KMIS)
+
+
+## Technical Skills
+* Programming Language
+	* Python, PyTorch, TensorFlow, Java, C++, C, Mathematica, ArcGIS
+* Statistical Software and Database
+	* R, STATA, SAS, SQL, MongoDB, Spark, Hadoop
+
+
+[1]: https://www.business.kaist.edu/
+[2]: http://postech.edu/eng/
+[4]: https://wiseconf2017.wixsite.com/wise
+[5]: https://bigsconf2017.wixsite.com/bigs2017
+[6]: http://brightinternet.org/bigs2018/
+[7]: http://brightinternet.org/bigs2019/
+[8]: http://brightinternet.org/bigs2020/
+[9]: https://www.informs.org/ORMS-Today/Public-Articles/February-Volume-45-Number-1/INFORMS-News-2017-INFORMS-Subdivision-Awards
