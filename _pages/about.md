@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 ---
 
 ## Education
-* **Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea** (September 2019 - Present)
+* **Korea Advanced Institute of Science and Technology, Daejeon, Korea** (September 2019 - Present)
 	* Ph.D. Candidate in *Business and Technology Management* (Major: Information Systems)
 	* M.Eng., in *Graduate School of Innovation and Technology Management* (Martch 2013 - February 2015)
 
