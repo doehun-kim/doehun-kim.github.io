@@ -104,8 +104,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Daejeon, Korea"
-  email            : 
-  links            :
+  links:
      - label: " Email"
       icon: "fas fa-fw fa-envelope-square"
       url: doehun.kim@kaist.ac.kr
