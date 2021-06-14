@@ -21,8 +21,9 @@ toc_icon: "bookmark"
 	* Research Assistant
 * **Defense Agency for Technology Quality, Jinju, Korea** (December 2015 - August 2019)
 	* Research Specialist
+	* Work as a Substitute for Mandatory Military Service
 * **Tsinghua University, Beijing, The People's Republic of China** (January 2012 - June 2012)
-	* Research Intern
+	* Research Intern. in *Joint Institute for Measurement Science lab
 
 ## Honors and Awards
 * Ph.D. Fellowship, College of Business, KAIST, 2019 – Present
