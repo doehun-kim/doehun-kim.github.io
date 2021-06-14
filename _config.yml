@@ -106,12 +106,15 @@ author:
   location         : "Daejeon, Korea"
   email            : "doehun.kim@kaist.ac.kr"
   links            :
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/doehun-kim"
-    - label: "Linkedin"
+    - label: " Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/dhkimy"
+    - label: " Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/doehun-kim-01638b188/"
+    - label: " GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/doehun-kim"
   uri              :
   home             : /about
   bitbucket        :
