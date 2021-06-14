@@ -17,12 +17,12 @@ toc_icon: "bookmark"
 
 ## Work Experience
 * **Korea Advanced Institute of Science and Technology, Daejeon, Korea** (September 2019 - Present)
-	* Teaching Assistant* 
-	* Research Assistant*
+	* Teaching Assistant
+	* Research Assistant
 * **Defense Agency for Technology Quality, Jinju, Korea** (December 2015 - August 2019)
-	* Research Specialist*
+	* Research Specialist
 * **Tsinghua University, Beijing, The People's Republic of China** (January 2012 - June 2012)
-	* Research Intern*
+	* Research Intern
 
 ## Honors and Awards
 * Ph.D. Fellowship, College of Business, KAIST, 2019 – Present
