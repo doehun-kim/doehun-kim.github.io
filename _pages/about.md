@@ -7,7 +7,7 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 
-## Education
+## Educationaaaaa
 * **Korea Advanced Institute of Science and Technology, Daejeon, Korea** (September 2019 - Present)
 	* Ph.D. Candidate in *Business and Technology Management* (Major: Information Systems)
 	* M.Eng., in *Graduate School of Innovation and Technology Management* (Martch 2013 - February 2015)
