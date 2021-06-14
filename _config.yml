@@ -105,6 +105,8 @@ author:
   bio              : "Ph.D. Candidate"
   location         : "Daejeon, Korea"
   email            : "doehun.kim@kaist.ac.kr"
+  uri              :
+  home             : /about
   links:
     - label: " Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -115,8 +117,6 @@ author:
     - label: " GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/doehun-kim"
-  uri              :
-  home             : /about
   bitbucket        :
   codepen          :
   dribbble         :
