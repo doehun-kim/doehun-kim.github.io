@@ -105,21 +105,28 @@ author:
   bio              : "Ph.D. Candidate"
   location         : "Daejeon, Korea"
   email            : "doehun.kim@kaist.ac.kr"
+  links            :
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/doehun-kim"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/doehun-kim-01638b188/"
   uri              :
   home             : /about
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "dhkimy"
+  facebook         : 
   foursquare       :
-  github           : "doehun-kim"
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "doehun-kim-01638b188"
+  linkedin         : 
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
