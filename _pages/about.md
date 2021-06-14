@@ -23,7 +23,7 @@ toc_icon: "bookmark"
 	* Research Specialist
 	* Work as a Substitute for Mandatory Military Service
 * **Tsinghua University, Beijing, The People's Republic of China** (January 2012 - June 2012)
-	* Research Intern. in *Joint Institute for Measurement Science lab*
+	* Research Intern, in *Joint Institute for Measurement Science lab*
 
 ## Honors and Awards
 * Ph.D. Fellowship, College of Business, KAIST, 2019 – Present
