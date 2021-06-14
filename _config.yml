@@ -104,8 +104,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Daejeon, Korea"
-  email            : "doehun.kim@kaist.ac.kr"
+  email            : 
   links            :
+     - label: " Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: doehun.kim@kaist.ac.kr
     - label: " Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/dhkimy"
@@ -115,6 +118,7 @@ author:
     - label: " GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/doehun-kim"
+
   uri              :
   home             : /about
   bitbucket        :
