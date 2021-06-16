@@ -1,4 +1,5 @@
 ---
+permalink: /research/
 title: "Research"
 last_modified_at: 2021-06-01
 toc: true
