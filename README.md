@@ -22,9 +22,6 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 [1]: https://mmistakes.github.io/minimal-mistakes/
 [2]: screenshot.png (live preview)
 
-![Ben Franklin Parkway __72 DPI](https://user-images.githubusercontent.com/85758235/122649204-c6ad1280-d167-11eb-97a9-da33b2bd5c10.jpg)
-
-
 ![layout examples](screenshot-layouts.png)
 
 ## Notable features
