@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Doehun Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://user-images.githubusercontent.com/85758235/122650834-f6f8af00-d16f-11eb-9093-042f3113719b.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Daejeon, Korea"
   links:
