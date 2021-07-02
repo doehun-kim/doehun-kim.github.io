@@ -3,4 +3,4 @@ Allow: /
 User-agent: BadBot
 Disallow: /foo/bar/
 
-Sitemap: https://jonghkim.github.io/sitemap.xml
+Sitemap: https://doehun-kim.github.io/sitemap.xml
