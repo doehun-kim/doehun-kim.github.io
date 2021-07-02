@@ -1,8 +1,5 @@
-User-agent: Googlebot
-Disallow: /
-Disallow: /*.xls$
-Disallow:/request
-Disallow:/online01
-Disallow:/*=request
+User-agent: * 
+Allow: /
+Disallow: /search.php
 
 Sitemap: https://doehun-kim.github.io/sitemap.xml
