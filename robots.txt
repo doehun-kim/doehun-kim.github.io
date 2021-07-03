@@ -1,4 +1,4 @@
-User-agent: Googlebot
-Disallow: /*.xls$
+User-agent: *
+Disallow: /
 
 Sitemap: https://doehun-kim.github.io/sitemap.xml
